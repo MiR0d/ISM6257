@@ -1,5 +1,5 @@
 # ISM6257
-This repo contains homework assignments for my ISM6257 course.
+This repo contains homework assignments for my ISM6257 course. All code is written in Java.
 
 <h3>Assignments</h3>
 <li>Assignment 1: Develop an application that will display an envelope with a to, from, and stamp.</li>
