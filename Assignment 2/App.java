@@ -1,3 +1,8 @@
+/*
+Author: Michael R.
+Date Created: 01/20/2022
+Date Last Modified: 01/21/2022
+ */
 package com.example;
 
 import java.util.Scanner;
